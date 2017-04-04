@@ -1,2 +1,3 @@
-# pinheirolucas.com
+# pinheirolucas.me
+
 Personal site and blog
