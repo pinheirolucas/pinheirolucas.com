@@ -1,0 +1,13 @@
+{
+	"name": "pinheirolucas.me",
+	"version": "1.0.0",
+	"description": "Personal site",
+	"main": "index.js",
+	"scripts": {},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/pinheirolucas/pinheirolucas.me.git"
+	},
+	"author": "pinheirolucas",
+	"homepage": "https://github.com/pinheirolucas/pinheirolucas.me#readme"
+}
