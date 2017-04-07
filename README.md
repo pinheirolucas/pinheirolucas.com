@@ -1,3 +1,3 @@
 # pinheirolucas.me
 
-Personal site and blog
+Personal site and blog.
