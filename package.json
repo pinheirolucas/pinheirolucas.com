@@ -1,13 +1,18 @@
 {
-	"name": "pinheirolucas.me",
-	"version": "1.0.0",
-	"description": "Personal site",
-	"main": "index.js",
-	"scripts": {},
-	"repository": {
-		"type": "git",
-		"url": "git+https://github.com/pinheirolucas/pinheirolucas.me.git"
-	},
-	"author": "pinheirolucas",
-	"homepage": "https://github.com/pinheirolucas/pinheirolucas.me#readme"
+  "name": "pinheirolucas.me",
+  "version": "1.0.0",
+  "description": "Personal site",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pinheirolucas/pinheirolucas.me.git"
+  },
+  "author": "pinheirolucas",
+  "homepage": "https://github.com/pinheirolucas/pinheirolucas.me#readme",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "font-awesome": "^4.7.0",
+    "highlight.js": "^9.10.0"
+  }
 }
