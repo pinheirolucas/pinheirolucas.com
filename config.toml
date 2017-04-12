@@ -1,5 +1,5 @@
 # basic site configs
-baseURL = "https://www.pinheirolucas.me/"
+baseURL = "https://personal-site-3103c.firebaseapp.com/"
 languageCode = "pt-br"
 title = "Lucas Pinheiro"
 theme = "hugo-sustain"
@@ -12,7 +12,7 @@ googleAnalytics = "UA-96773112-1"
 highlight = true
 
 [params]
-	avatar = "/images/me.png"
+	avatar = "images/me.png"
 	author = "Lucas Pinheiro"
 
 [params.social]
