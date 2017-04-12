@@ -14,5 +14,8 @@
     "bootstrap": "^3.3.7",
     "font-awesome": "^4.7.0",
     "highlight.js": "^9.10.0"
+  },
+  "devDependencies": {
+    "webpack": "^2.3.3"
   }
 }
