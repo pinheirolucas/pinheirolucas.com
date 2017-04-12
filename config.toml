@@ -1,3 +1,22 @@
-baseURL = "https://pinheirolucas.me/"
+# basic site configs
+baseURL = "https://www.pinheirolucas.me/"
 languageCode = "pt-br"
 title = "Lucas Pinheiro"
+theme = "hugo-sustain"
+
+# integrations
+disqusShortname = "pinheirolucas"
+googleAnalytics = "UA-96773112-1"
+
+# theme
+highlight = true
+
+[params]
+	avatar = "/images/me.png"
+	author = "Lucas Pinheiro"
+
+[params.social]
+	github = "pinheirolucas"
+	twitter = "pinheirolucaslp"
+	email = "lucas.contato1996@gmail.com"
+	linkedIn = "lucas-pinheiro-44889699"
