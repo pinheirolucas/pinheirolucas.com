@@ -1,0 +1,31 @@
+name = "Projects"
+
+[[source]]
+	icon = "github"
+	name = "Artemis"
+	description = "A simple dribbble clone."
+	repo = "artemis"
+
+[[source]]
+	icon = "github"
+	name = "pinheirolucas.me"
+	description = "This site."
+	repo = "pinheirolucas.me"
+
+[[source]]
+	icon = "github"
+	name = "Pomotron"
+	description = "A multplatform electron implementation of pomodoro technique."
+	repo = "pomotron"
+
+[[source]]
+	icon = "github"
+	name = "vscode-sync"
+	description = "Sync Visual Studio Code settings between devices."
+	repo = "vscode-sync"
+
+[[source]]
+	icon = "github"
+	name = "BoltCLI"
+	description = "CLI tool for BoltDB local management."
+	repo = "bolt-cli"

@@ -1,0 +1,21 @@
+<section id="projects">
+	<div class="container">
+		<h3>{{ .Site.Data.projects.name }}</h3>
+		<div class="panel panel-default">
+			<div class="panel-body">
+				{{ $username := .Site.Params.Social.Github }}
+				{{ range .Site.Data.projects.source }}
+				<h5>
+					<i class="fa fa-{{ .icon }}"></i>&nbsp;&nbsp;
+					<strong>
+						<a href="http://github.com/{{ $username }}/{{ .repo }}" target="__blank">
+							{{ .name }}
+						</a>
+					</strong>&nbsp;-&nbsp;
+					{{ .description }}
+				</h5>
+				{{ end }}
+			</div>
+		</div>
+	</div>
+</section>
