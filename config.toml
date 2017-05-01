@@ -33,9 +33,3 @@ highlight = true
 	identifier = "projects"
 	weight = 200
 	url = "/projects/"
-
-[[menu.main]]
-	name = "Resume"
-	identifier = "resume"
-	weight = 300
-	url = "/resume/"
